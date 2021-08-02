@@ -13,3 +13,6 @@ You might want to set all the secrets if you're using multiple instances with th
 - NGROK_AUTH_TOKEN2
 - NGROK_AUTH_TOKEN3
 - NGROK_AUTH_TOKEN4
+
+# How to set up the RDP?
+Visit this: [Click Me](https://github.com/Cydaaa/WindowsRDP/wiki/Setting-up-RDP-and-connecting...)

@@ -1,4 +1,4 @@
-name: PyroRDP
+name: WindowsRDP
 
 on: workflow_dispatch
 

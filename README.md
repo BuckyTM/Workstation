@@ -1,4 +1,8 @@
 # NOTE!!!
+Important!
+I modified this so no one could access your credentials anymore unless they has access to your NGROK account (I'm the one who started this problem, because I didn't expect much from this.)
+Also, your action page is public, and everyone can access your RDP. Please consider re-forking this repository if you're still using the old codes.
+You can contact me on Discord (Kowone#9999) or through email (yie@saikyou.xyz) or just using github repository issue.
 
 Just want you guys to read more about this, this repository is only for educational purposes. Just to make sure about something...
 

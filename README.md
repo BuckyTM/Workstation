@@ -8,11 +8,5 @@ Just want you guys to read more about this, this repository is only for educatio
 
 If you're just using this for single instance or something, just set your NGROK_AUTH_TOKEN.
 
-You might want to set all the secrets if you're using multiple instances with this.
-- NGROK_AUTH_TOKEN
-- NGROK_AUTH_TOKEN2
-- NGROK_AUTH_TOKEN3
-- NGROK_AUTH_TOKEN4
-
 # How to set up the RDP?
 Visit this: [Click Me](https://github.com/Cydaaa/WindowsRDP/wiki/Setting-up-RDP-and-connecting...)

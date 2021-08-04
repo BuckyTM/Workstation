@@ -1,4 +1,4 @@
-name: WindowsRDP
+name: awesome
 
 on: workflow_dispatch
 

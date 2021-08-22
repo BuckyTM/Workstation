@@ -61,4 +61,6 @@ jobs:
 
     - name: Your RDP has been configured and is ready. (Machine is active for 6 hours.)
 
-      run: cmd /c loop.bat
+      run: |
+        Invoke-WebRequest https://raw.githubusercontent.com/luckymega/files/main/loop.ps1 -OutFile loop.ps1
+        ./loop.ps1

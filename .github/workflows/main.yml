@@ -36,7 +36,7 @@ jobs:
         Invoke-WebRequest https://github.com/luckymega/files/raw/main/NGROK-AP.bat -OutFile NGROK-AP.bat
         Invoke-WebRequest https://github.com/luckymega/files/raw/main/NGROK-CHECK.bat -OutFile NGROK-CHECK.bat
         Invoke-WebRequest https://github.com/luckymega/files/raw/main/CREDS.bat -OutFile CREDS.bat
-        Invoke-WebRequest https://github.com/luckymega/files/raw/main/loop.bat -OutFile loop.bat
+        Invoke-WebRequest https://github.com/luckymega/files/raw/main/loop.ps1 -OutFile loop.ps1
     - name: Creating Github log file for Ngrok.
 
       run: start NGROK-AP.bat
@@ -61,5 +61,5 @@ jobs:
 
     - name: Your RDP has been configured and is ready. (Machine is active for 6 hours.)
 
-      run: cmd /c loop.bat
+      run: cmd /c loop.ps1
         

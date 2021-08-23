@@ -1,4 +1,4 @@
-name: awesome
+name: Gradle Java 16
 
 on: workflow_dispatch
 
